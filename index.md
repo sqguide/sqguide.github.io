@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/sqguide/sqguide.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/xgj2e7" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
