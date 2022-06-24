@@ -5,7 +5,7 @@
 [Title 1](#mechanics)
 [Title 2](#test)
 
-### Table of contents
+# Table of contents
 {:toc}
 
 ### Test 456
