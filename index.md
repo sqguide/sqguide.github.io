@@ -193,8 +193,31 @@ Apply this concrete scenario to most firefights you will encounter as an individ
 | Kill one player and push ahead<br>You see a player ahead and he is very close to you and you are fighting him. You win the fight and kill him (poking holes). You decide to assume he has no buddies around him and you push through.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | After pulling off this move and deciding to push off of it, you need to decide if you slightly flank around the body or push straight through (depending on opponent style, map, etc.).<br>When poking holes you gain tempo (usually not as much as abusing a free gap), if the enemies don’t refrag you after the kill (lose track of you), they will know you made it past them and will likely chase you.  |
 | Kill two+ players and push ahead<br>You fight a couple people, you kill all of them. You decide to push through off of it (creating huge gaps)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | This is the most amount of tempo you can gain for your team as an infantry player in a firefight (other than stomping rallies or killing radios). Killing a lot of people is an instant tempo gain and a lot of the time, this specific situation is what gets you the flag or the fob take.                                                                                                                  |
 
+### Friendly Spawn Game Sense
+Spawns are extremely important in Squad, therefore it is important to know how to play with them. When mentioning spawns, I am talking about HABs and rally points. These are top priorities to properly attack/defend and move around the map; failure to play properly with your spawns will result in resetting from main or being stuck on the spawn screen. If main is being camped and you have no spawns, you could get rolled by the enemy team. Below are some pointers/tidbits of information for when you are playing off of a spawn point in Squad:
 
+**General (Rallypoint and HAB)**
 
+* Avoid shooting off of spawn if the opponent does not see you (especially off a rally point)
+* For the first couple of spawns (when undiscovered) do not push in a straight line off the spawn point; this will make it extremely easy for the opponent to detect the spawn. 
+* Don’t tunnel vision your objective/task. Once spawned, get in the habit of doing a quick 360 and paying attention to what is around the spawn. A lot of people are on autopilot when spawning and fail to realise there is a combat engineer on the HAB/FOB. 
+
+**Rallypoint**
+
+* The rally point can only be placed if there are no enemies within 50 m 
+* The rally point is automatically stomped when enemies come within 30 m. Thus, ensure the rally point is not placed within 30 m of a road (to avoid stomp by vehicle) or common areas where enemies will push through.
+* Ensure rallypoint is not placed in the open. A rally that can be spotted visually by the enemy is a bad rally. There will always be a bush/hut/etc to place your rally to reduce the odds of the enemy visually spotting it. Literally no reason to ever put a rally outside of concealment.
+* Do not leave a vehicle on your rallypoint, inexperienced squads will leave the vehicle on the rallypoint (this is an extremely common mistake and makes it super easy to stomp rallies). Get in the habit of moving the vehicle off your rally, even if it is 50m away (aim for hiding the vehicle too) it will give you much better odds of preserving the rally.
+![](/docs/rally.PNG)
+* Constantly check your map for the rally stomp (it is everyone’s job)
+* `DO NOT SHOOT OFF OF RALLY POINT.` With the small stomp radius, enemies can often run past it without stomping it (if they don’t catch you shooting off of it or running off of it)
+
+**HAB**
+* Do not leave a vehicle on your radio (same point as rally point)
+* If your HAB is blocked and there are no friendlies in the vicinity to help you from outside, you must fight to unblock it as soon as possible (valid for most situations). The longer you wait, the more enemies that will stack up and the harder it will be to unblock it. 
+* When possible, ensure HAB/Radio is not outside (mortars) 
+
+### Teamwork and Communication
 
 
 ## II) The Objective
