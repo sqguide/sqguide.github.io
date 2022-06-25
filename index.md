@@ -24,7 +24,7 @@ xxx
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGmReHmwj24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Player Ol' jim chasing epic muzzle flashes through the forest*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxhX-Ue4HUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Comparing low and epic particles*
 
-Additionally, look up your monitor on google for some calibration settings in order to have the best colours (can increase vibrance and sharpness through the monitor this way if you wish). 
+Additionally, look up your monitor on Google for some calibration settings in order to have the best colours (can increase vibrance and sharpness through the monitor this way if you wish). 
 
 **Binds:** I use all the default binds. A bind I would recommend adding is the SL/FTL order binds so that you can mark things whilst shooting without having to open the radial menu. You can do this in settings>controls>voice/command>place order. `You want to avoid using the attack order (sword marker) as your character raises his hand above his head and this can give your position away in urban areas / when hiding in foliage.`
 ![](/docs/settings3.PNG)
