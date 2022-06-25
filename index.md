@@ -403,6 +403,7 @@ Outside of these four elements, again, I do not recommend proning for extended p
 
 Leaning is extremely strong in Squad to peek and to modify the shape of your hit box. Leaning can be used to peek all objects and can even be used to quickly peek a hill. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5eb_7FTP1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *(the lean here took my head just under the line of grass)*
+
 Leaning takes a big part of stamina away making it harder to shoot, this means that you cannot constantly abuse lean. It is important to manage your stamina and stop leaning sometimes to regenerate (more on this in the stamina management section). By alternating from left to right lean, you can use a technique called lean spamming which constantly modifies your hit box and makes it harder for the enemy to shoot you. This can also surprise players, making them really upset and leading to very angry posts on reddit. Lean spamming can be used to quickly repeek corners or to surprise enemies in a firefight.
 
 I do not recommend lean spamming or QE spamming to beginner players as it is substantially harder to shoot while lean spamming compared to standing still. If anything, it is a habit or style of play and does not give you a big advantage over your enemies. 
