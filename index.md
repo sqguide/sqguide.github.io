@@ -12,6 +12,7 @@ N.B: Information in this guide is valid as of V3.0.1. I am always looking to upd
 ## Table of Contents
 xxx
 
+___
 ## I) The Player
 ### Settings
 **FOV:** For squad, I have found lower FOV (90-95) works best to have a bigger image of long-range targets. I use 90 FOV.
@@ -260,6 +261,7 @@ Different environments call for different types of positioning - I have special 
 
 **Forest (Fool’s Road, Yehorivka, Gorodok, Skorpo):** As a rule of thumb on forest maps, you want to slow down your movement when fighting in forests as it is incredibly easy to see people when they are moving fast in the forest. The slower you move, the harder you will be to spot when trying to push. I am not saying to push less, I am saying to push more slowly.
 
+___
 ## II) The Objective
 
 ### Enemy Spawn Game Sense
@@ -384,6 +386,7 @@ Let's say you and the enemy both start capturing a flag at the same time… you 
 
 ### Vanilla TC Mechanics (WORK IN PROGRESS)
 
+___
 ## III) The Mechanics
 ### Infantry Mechanics
 **Proning**
@@ -538,6 +541,7 @@ Following UAV cool downs, always make sure to check the sky sometimes to see whe
 
 When a helicopter is flying slowly or hovering around you, it is easy to disable it with small arms. It takes two mags of a basic infantry rifle into the tail rotor to send it into a spin and disable the helicopter. Later, follow up can be organised to kill the helicopter such as a vehicle ram, vehicle kill, mortars, or LAT.
 
+___
 ## IV) The Brain
 
 ### Initiative
