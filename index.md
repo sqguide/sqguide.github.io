@@ -537,9 +537,20 @@ Following UAV cool downs, always make sure to check the sky sometimes to see whe
 
 When a helicopter is flying slowly or hovering around you, it is easy to disable it with small arms. It takes two mags of a basic infantry rifle into the tail rotor to send it into a spin and disable the helicopter. Later, follow up can be organised to kill the helicopter such as a vehicle ram, vehicle kill, mortars, or LAT.
 
-
-
 ## IV) The Brain
+
+###Initiative
+An infantry player with good game sense will always be taking initiative - it wins games. A lot of inexperienced players fail to check their map, and another bunch check their map and are aware of the situation but still fail to take initiative. Below are some examples of taking initiative. 
+* `Switching kits:` A grenadier switching to the second LAT while your HAB is getting farmed by a vehicle. A rifleman switching to grenadier when a lot of the enemy is playing from windows. 
+* `Riflemen providing ammo:` When playing their kit properly, the rifleman will run to the LAT before they start engaging vehicles so they can swiftly provide ammo for a second shot. They will take initiative to provide ammo to the squad leader for another rally point after placing it… they will keep the SL updated on how much more ammo there is left so they know how safe to place the rally point. 
+* S`tepping into the cap when you are near it:` Don’t stand 1 cm from the flag, especially when a maximum cap speed is required. Don’t run off the flag when you know you are / could be the third person in the flag.
+* `Going back for a HAB when it is blocked:` Making sure that you are not underreacting or overreacting to do the retake. Rule of thumb is that the closest players will go back for it (it is your job to realise you are the closest player).
+* `Going for a rally stomp` once you know where it is (without giving your push away by shooting enemies)
+* `Assisting a vehicle:` Assist your vehicle by switching to LAT off of them during a vic fight, giving accurate information about what the vehicle is doing, switching to crewman off of them to help repair quicker to move away. 
+* Offering to bring a logistics truck to create an attack FOB at an opportune moment
+* Pulling supplies back into logi before FOB dies (if you’re right next to logi)
+* And much much more
+
 
 
 
