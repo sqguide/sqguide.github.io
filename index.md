@@ -97,7 +97,7 @@ A secondary role of the LAT when there is no risk of enemy armor attacking the s
 
 It is the responsibility of all squad mates to swap to the LAT kit if it is open and there is an enemy vehicle causing problems in the area. Anyone can do this, even the squad leader.
 
-#### Grenadier (GL)
+**Grenadier (GL)**
 
 The main role of the grenadier is to shoot explosives at infantry. This is especially useful when there are clusters of infantry or the infantry is hiding in buildings / behind cover. 
 
@@ -112,7 +112,7 @@ A good MG will be patient in order to consistently maintain his ground.
 A good MG will have to know how and where to bipod quickly in order to not overexpose for too long. By reading the map, the MG will rotate and find lanes to cut enemies off / protect their squad.
 
 Usually need good game sense to play this role properly in order to choose what lanes to hold and when/how to rotate.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mSv0qz_hiKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Montage of player Ol’ Jim holding a lot of ground as MG… edited to help zoom to see targets in the video*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSv0qz_hiKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Montage of player Ol’ Jim holding a lot of ground as MG… edited with zoom to help see targets in the video*
 
 ## II) The Objective
 ## III) The Mechanics
