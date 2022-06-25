@@ -19,17 +19,15 @@ xxx
 **Sensitivity:** Pretty standard concept for all FPS games, I reccomend to have a glance at [Juho's Guide for Accurate Shooting](https://docs.google.com/document/d/1CeQZ4v-V9R8sZ7NdtiMf17x7_IM3kr_C28bkmuMvZLc/edit) and generic FPS sensitivity videos. 
 
 **Graphic settings:** Although a lot about graphic settings are personal preference, I have found the following settings to give me the best results in-game (as of v3.0). These are ethical settings and I recommend them to anyone with enough decency not to use .ini tweaks. I found it easier to see through foliage on epic foliage compared to low. Muzzle flashes are easier to spot on epic particles when compared to low particles. Upping these settings seemed to have minimal effect on my FPS. Some people argue that high shadows + contact shadows off is better than low shadows but I prefer low shadows as they seem to impact my FPS less when shooting. 
-![test](/docs/settings1.PNG)
-<img src="/docs/settings1.PNG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-![](/docs/settings2.png)
+![](/docs/settings1.PNG)
+![](/docs/settings2.PNG)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGmReHmwj24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Player Ol' jim chasing epic muzzle flashes through the forest*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxhX-Ue4HUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Comparing low and epic particles*
 
 Additionally, look up your monitor on google for some calibration settings in order to have the best colours (can increase vibrance and sharpness through the monitor this way if you wish). 
 
-**Binds:** I use all the default binds. A bind I would recommend adding is the SL/FTL order binds so that you can mark things whilst shooting without having to open the radial menu. You can do this in settings>controls>voice/command>place order. __You want to avoid using the attack order (sword marker) as your character raises his hand above his head and this can give your position away in urban areas / when hiding in foliage.__ 
+**Binds:** I use all the default binds. A bind I would recommend adding is the SL/FTL order binds so that you can mark things whilst shooting without having to open the radial menu. You can do this in settings>controls>voice/command>place order. `You want to avoid using the attack order (sword marker) as your character raises his hand above his head and this can give your position away in urban areas / when hiding in foliage.`
+![](/docs/settings3.PNG)
 
 ## II) The Objective
 ## III) The Mechanics
