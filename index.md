@@ -539,7 +539,7 @@ When a helicopter is flying slowly or hovering around you, it is easy to disable
 
 ## IV) The Brain
 
-###Initiative
+### Initiative
 An infantry player with good game sense will always be taking initiative - it wins games. A lot of inexperienced players fail to check their map, and another bunch check their map and are aware of the situation but still fail to take initiative. Below are some examples of taking initiative. 
 * `Switching kits:` A grenadier switching to the second LAT while your HAB is getting farmed by a vehicle. A rifleman switching to grenadier when a lot of the enemy is playing from windows. 
 * `Riflemen providing ammo:` When playing their kit properly, the rifleman will run to the LAT before they start engaging vehicles so they can swiftly provide ammo for a second shot. They will take initiative to provide ammo to the squad leader for another rally point after placing it… they will keep the SL updated on how much more ammo there is left so they know how safe to place the rally point. 
@@ -551,7 +551,35 @@ An infantry player with good game sense will always be taking initiative - it wi
 * Pulling supplies back into logi before FOB dies (if you’re right next to logi)
 * And much much more
 
+### Performance Indicators
 
+**During the game**
 
+In order to keep track of which kills are giving up, make it a habit to check the scoreboard everytime you die. Once you give up, your teamwork score will update and this will give you a bit of information. The only important things to know here are that you get +10 score for a down that gave up and -1 score for when you give up. Keep in mind your score can sometimes be affected by things such as reviving, healing, logistics, killing vehicles etc., but it is extremely viable to track the tendency of your score. Let's say you are a simple rifleman and you downed about seven people in that first life. Fast forward a couple of minutes where you give up and your score changes from 0 to -1. You can be certain that those people you downed did not give up and probably got revived… or else you would have about a 69 score. This information can help you track that squad. 
 
+Below is an example from a scrim (scoreboard before first death vs after first death). You can see that after I gave up my score went from 0 to 42 meaning I killed approximately four people (they gave up). 
+
+![](/docs/scoreboard.PNG) 
+
+**After the game**
+
+Compare your KD Ratio and revives to the rest of your squad, rest of the team, and opponent to get a good idea of how you did score-wise. Reflect on if you contributed to any vehicle kills, FOB takes, flag takes. Did you kill a combat engineer with a 360 noscope right before he C4ed your radio? That is worth a lot more than a pretty KD ratio. You can usually figure out what squad you were fighting in your lane when the squad KDs are approximately inverted from each other. Did you play the flag much relative to other players if you were assigned to play the flag? Flag score equates to 10 points per 5 seconds and you can get a good picture of who was playing on the flag by looking at flag score at the end of the game. You generate flag score by capturing or defending an active flag. 
+
+Above all this, the best way to have an indication of your performance is to review your own VODs. Record your gameplay and go over every kill, death, and other key moments. What could you have done better? At the end, note solutions to all your problems.
+
+### How to Improve Infantry Game Sense and Become More Versatile
+
+To conclude, I will give my personal opinion on how to train up an inexperienced player to their maximum potential game sense. Reading a guide does not do anything to help compared to actually playing the game and actively learning from your mistakes. I recommend doing the following things in order (move onto the next step once confidence/satisfaction is achieved):
+1. Learn how to medic (ironsight medic) - ironsight medic so that you are not focused on killing as much. Only focus on properly following the fundamentals mentioned in the kits section, you do not need an optic to refrag.
+2. Learn how to use ironsight with an ironsight LAT or rifleman (only in pubs of course) - learn to fight with the iron sight / red dot, etc. A lot of inexperienced players use the optic as a crutch to make up for their terrible positioning. Trust me, your positioning will improve if you do this step properly. Another benefit of this will be training to use your kit (frag rockets to get hard to reach enemies, learn how to engine vehicles, etc.).
+3. Learn how to use the optic kits - you have now practised your positioning by letting your game sense do the work and getting proper positioning. Practice the gunplay adjustments that come with using an optic. The goal here is to have the optic amplify your skill and not make up for it. 
+4. Learn how to squad lead in pubs (without fobs, with fobs) - practice what was mentioned in the SL section. Practice many rounds with only a rally point (ignore placing radios for now). You want to be focusing on 100% rally uptime. After mastering the art of rally points, practice properly placing FOBs and HABs, keeping your logi ready with supplies to constantly develop spawns for your team. Don’t blame the other squad leaders, it’s a pub game and it's expected. Aim to carry your team. 
+5. Learn how to use all the firesupport / specialist kits (specifically LAT, GL, MG) - as per kit section and common sense
+6. Learn how to squad lead in organised play - all around higher stakes, more of an accent on rollouts and mid game decision making
+7. Learn how to play mortars, commander, vehicles
+8. Make strategies
+
+> tl;dr I feel like every squad player should know how to properly squad lead and play medic before going on to main a specific kit.
+
+For the experienced player, I recommend constantly going back and trying new roles (pushing out of your comfort zone) with the aim of improving game sense and general knowledge of the game. 
 
