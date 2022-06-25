@@ -7,7 +7,7 @@ Special thanks to Ol’ Jim (for helping provide and create clips) and various o
 
 Enjoy!
 
-**N.B:** Information in this guide is valid as of V3.0.1
+N.B: Information in this guide is valid as of V3.0.1. I am always looking to update and add new clips (trying to use clips from v3.0 only) to this document. If you got anything, message me on discord: koodoo#9184
 
 ## Table of Contents
 xxx
