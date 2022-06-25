@@ -10,7 +10,38 @@ Enjoy!
 > N.B: Information in this guide is valid as of V3.0.1. I am always looking to update and add new clips (trying to use clips from v3.0 only) to this document. If you got anything, message me on discord: koodoo#9184
 
 ## Table of Contents
-xxx
+- [Foreword](#foreword)
+- [Table of Contents](#table-of-contents)
+- [I) The Player](#i--the-player)
+  * [Settings](#settings)
+  * [Kits](#kits)
+  * [Squad Leader (very briefly)](#squad-leader--very-briefly-)
+  * [Squad Composition](#squad-composition)
+  * [Playstyle Spectrum](#playstyle-spectrum)
+  * [Tempo & Momentum](#tempo---momentum)
+  * [Friendly Spawn Game Sense](#friendly-spawn-game-sense)
+  * [Teamwork and Communication](#teamwork-and-communication)
+  * [Rally Timer and Being in Sync](#rally-timer-and-being-in-sync)
+  * [Where and How to Die](#where-and-how-to-die)
+  * [Types of Environment (WIP)](#types-of-environment--wip-)
+- [II) The Objective](#ii--the-objective)
+  * [Enemy Spawn Game Sense](#enemy-spawn-game-sense)
+  * [Yellow Ring Usage (Finding FOBs)](#yellow-ring-usage--finding-fobs-)
+  * [HAB Takes](#hab-takes)
+  * [Attacking a Flag](#attacking-a-flag)
+  * [Holding a Flag](#holding-a-flag)
+  * [Rushing a Flag and its Counters](#rushing-a-flag-and-its-counters)
+  * [Back Capping](#back-capping)
+  * [Ticket Thirsting](#ticket-thirsting)
+  * [Vanilla AAS Mechanics (As of v3.0)](#vanilla-aas-mechanics--as-of-v30-)
+  * [Vanilla TC Mechanics (WORK IN PROGRESS)](#vanilla-tc-mechanics--work-in-progress-)
+- [III) The Mechanics](#iii--the-mechanics)
+  * [Infantry Mechanics](#infantry-mechanics)
+  * [Mortars and Fire Support](#mortars-and-fire-support)
+- [IV) The Brain](#iv--the-brain)
+  * [Initiative](#initiative)
+  * [Performance Indicators](#performance-indicators)
+  * [How to Improve Infantry Game Sense and Become More Versatile](#how-to-improve-infantry-game-sense-and-become-more-versatile)
 
 ___
 ## I) The Player
