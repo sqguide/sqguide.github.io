@@ -383,9 +383,134 @@ Let's say you and the enemy both start capturing a flag at the same time… you 
 
 ### Vanilla TC Mechanics (WORK IN PROGRESS)
 
-
-
 ## III) The Mechanics
+### Infantry Mechanics
+**Proning**
+
+In my opinion, Squad is a game that revolves around movement. It is very hard to move efficiently while proning and the animation to stand up is very slow. I recommend avoiding proning for extended periods of time as you are not maximising movement. Usually, if you are peeking and you get shot at, it is very easy to run away and hide/bandage - it is much harder to do this if you are proning (super easy to hit proners).
+
+Outside of firefights, proning is effective for example if trying to avoid a vehicle or if you are trying really hard to hide to capture an objective. You can use proning to your advantage in the following ways:
+* Playing your kit - sneaking around enemy infantry as a HAT or engineer, or as an MG in order to use the bipod
+* Prone peeking - an unconventional peeking method 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B4qMRnDhGxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Prone jumping - dodging the shots of the enemy
+* Playing dead - to avoid enemies if you are alone in dire situations / avoiding enemy vehicles (looking straight down + free look) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFn1yPtnCw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Outside of these four elements, again, I do not recommend proning for extended periods of time during firefights. Instead I recommend crouching (sometimes) as you can still be concealed and sneaky, AND you can still efficiently move and escape. 
+
+**Leaning & lean spamming**
+
+Leaning is extremely strong in Squad to peek and to modify the shape of your hit box. Leaning can be used to peek all objects and can even be used to quickly peek a hill. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5eb_7FTP1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *(the lean here took my head just under the line of grass)*
+Leaning takes a big part of stamina away making it harder to shoot, this means that you cannot constantly abuse lean. It is important to manage your stamina and stop leaning sometimes to regenerate (more on this in the stamina management section). By alternating from left to right lean, you can use a technique called lean spamming which constantly modifies your hit box and makes it harder for the enemy to shoot you. This can also surprise players, making them really upset and leading to very angry posts on reddit. Lean spamming can be used to quickly repeek corners or to surprise enemies in a firefight.
+
+I do not recommend lean spamming or QE spamming to beginner players as it is substantially harder to shoot while lean spamming compared to standing still. If anything, it is a habit or style of play and does not give you a big advantage over your enemies. 
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/uwvvit" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div> *(lean spamming in a panic encounter)*
+
+**Crouching & crouch spamming**
+
+Crouch running and crouch sprinting are to be avoided as it makes you a very easy target to hit. Crouching makes your hitbox much smaller and is very useful when trying to hide in foliage. For more passive players, I’d recommend crouching instead of proning in most situations. A technique called crouch spamming can be used (no tax on stamina) in order to make it harder for enemies to hit you and to try and quickly re-peek vertically (usually combined with lean) rather than around a corner.
+
+**Vaulting & crouch jumping**
+
+In a firefight, you want to be careful before vaulting as you get stuck in a long and arduous animation (with a stamina tax). When you are vaulting, you can not cancel the action, and you can not discharge your weapon making you very vulnerable. An alternative to vaulting for a lot of places on all maps is crouch jumping. Crouch jumping is done by jumping and crouching simultaneously, avoiding the vaulting animation and allows you to have your weapon ready. It is also much quicker to crouch jump. When crouch jumping is not possible you want to do short vaults over a series of small objects rather than the long overhead vault. The best solution is to avoid vaulting altogether and go the long way around.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSzFtZ_B8t4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Juking, returning fire, jump proning**
+
+When you are caught changing positions in the open, it is good practice to use various techniques in order to get into cover and/or return fire. An option could be to instantly return fire by stopping your movement and fighting the enemy on the spot (requires superior aiming skill); this can often look like a “flicking” movement. The second option would be to just keep running into cover; this can be used if the enemy is shooting from extremely far away, or if they are struggling to land their shots on you. The third option would be to “juke” your enemy’s fire by zig-zagging, leaning, crouching, spinning or jumping and proning simultaneously to execute a dive. You are juking your enemy’s fire as you manoeuvre into cover where you can then peek from. This can sound kind of funny but these drastic measures can bail you out of desperate times. Obviously, the best way to juke the enemy fire is by not getting caught in the first place. However, sometimes running in the open to urgently get into a cap point or to save a HAB is unavoidable. 
+
+**Stamina management**
+
+A fundamental of being a good infantry player is stamina management. Having a decent amount of stamina is necessary for making your life easier when engaging targets. While it is possible to aim long range with no stamina, it requires a lot of experience and is not optimal. As a rule of thumb, always keep at least half a bar of stamina. The quickest way to regenerate stamina is to prone, however as mentioned in the proning section of this guide, you largely limit your ability to manoeuvre when doing so. Thus, the most efficient way to regenerate stamina is to crouch and remain stationary (1 second more than proning, so negligible) behind cover. To regenerate stamina while on the move, you want to walk (and don’t ADS). If you are about to engage in a firefight and have no stamina, it is smart to wait and regenerate stamina to at least half-bar before fighting. In order to uphold the half stamina rule, you will have to limit yourself from leaning too much (as you barely regenerate stamina whilst leaning) and from sprinting.
+
+When transiting over long distances on foot, constantly holding the sprint key and draining your stamina bar to zero takes the same amount of time as when you only keep your stamina at half by alternating between sprinting and walking. In consequence, the most efficient way to transit long distances on foot as an infantry man is to alternate between sprinting and walking, while keeping your stamina bar at half. By doing this, you will be minimising your transit time, all while being ready to engage in a firefight at any moment. 
+
+Managing your stamina does not mean to be more passive; it means to move more efficiently. 
+
+**Sprinting**
+
+Useful to get across open areas. Wait to have a full stamina bar when sprinting across an open area such as a field or a street. When you are near the enemy (imminent fight), avoid sprinting into them as it will take longer to ready your weapon for fighting. 
+
+**Firemode**
+
+Fire mode is all personal preference to the player especially at medium range and close range. At medium-close range, some players opt to fire in single-fire mode as quickly as possible. Other players opt to tap fire in burst mode or full auto as in third person (i.e to the enemy), the sound of the weapon can be concealed. When tap firing in burst mode, the first burst is audible to the enemy but the remainder of the shots fired in quick succession are silent. This grants you an invisible suppressor that you can use to your advantage for a second or two of firing. When tap firing in automatic mode, the sound of your full automatic fire overlaps and makes it sound like there is more than one enemy firing. Remember that in first person this feature is not noticeable, it is only noticeable to other players around you. Generally in close quarters, you want to take advantage of Squad’s netcode and hitreg by firing as many bullets as possible (while being able to control the recoil).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gfab1wvRObc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *(busted m4 three burst)*
+
+**Bandaging and bleeding**
+
+After getting shot in the limb and even torso, you do not need to instantly bandage (if you are in a fire fight). If you take a small amount of damage and start bleeding (such as a lower limb shot), it will take two to three minutes for you to bleed out. That is more than enough time to end a firefight that is happening around you. Being too quick on bandaging will take you out of the firefight way earlier than you need to. Everything depends on the amount of health you had before getting shot and how hard you got hit by the enemy (chest shot vs lower limb shot). With more experience, you can learn when you have to bandage and when you can afford to keep fighting while bleeding.
+
+When you are playing a kit other than medic and there is a dead player next to you, do not revive them if there is a medic in the area. Medics bandage much quicker than non-medics (nearly 2x faster to be exact). Medics should bandage fellow infantry players while fighting (when possible) to allow for the other players to keep their bandages and to keep firing. I like to always keep 1 bandage to be able to revive a medic in a tough situation. I can keep this one bandage by getting a medic to bandage me while I am fighting if I am bleeding. Obviously, this point of keeping a bandage is nullified if you are fighting around an abundance of ammo such as an ammo crate, ammo bag, or a vehicle to rearm off of. 
+
+In the current version of the game, medics are extremely strong as they can revive infantry during the firefights an infinite amount of times (if getting healed); the limiting factor to this being ammunition and the position the infantry gets downed in. Experienced players use this to their advantage by being more brave in making ambitious peeks on the enemies (knowing they will be downed in a reviveable spot if they trade or lose the fight) when in the presence of medics. Infantry should make sure to be in front of the medics, medics should make sure to be behind the infantry. 
+
+While bandaging, you can move back a fair distance and rotate in 360 degrees of freedom. This can save you from getting shot. 
+
+Avoid proning to revive a body when possible (unless you need to hide behind something). If it has not been obvious by now, I am not a proponent of proning. Proning up to a body in the open is not the way to do it. As I said, squad is a game of movement and while staying crouched you can constantly move in order to lessen the odds of getting hit by incoming fire. If you are reviving someone while crouched, it is much easier to abort the revive if you start getting shot at. 
+
+For risky revives that are in the open, it is okay to tell your teammate to give up or to wait for the firefight to be over. Experience will help you tell which bodies are reviveable and which ones aren’t. Smoke can be used to revive if enemies are far away. It is important to note that if the enemies are close (nearly standing in the smoke), they can see outlines through the smoke. Telegraphing a revive by throwing smokes should be avoided.  
+
+The sound of someone bandaging is extremely loud and gives off a huge audio queue. If someone is bandaging or reviving, it is a sign to push them. It is very easy to kill someone with their bandage out as it takes a lot of time for them to pull the rifle out. On the flipside, a technique called “bandage baiting” can be utilised using these points to trick opponents; quickly faking a bandage and then pulling your rifle out to bait enemies in the vicinity. When pushing someone that is bandaging, it is important to remain extremely cautious (but still quick enough to push them before they complete the bandage) as they could be “bandage baiting” you, or there could be a second player holding the angle.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tEHDFa2YDew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *(bandage bait)*
+
+**Being quick with the map**
+
+![](/docs/mapsettings.PNG)
+*Settings>Controls>General*
+After playing with a lot of inexperienced players that are slow to mark things on the map I have come to the realisation that they may not be using the right map to mark things. There are three different ways to view the map in Squad: Command, Deployment, and Toggle. If you struggle with the speed at which to mark targets on the map (important to inform people in other squads/ vehicles/mortars), look into my technique for placing map markers. First, I never use the deployment menu (default “ENTER”) to mark stuff on the map, as there is a lot of clutter on the side. Toggle Map (default “M”) is used to quickly check the map; when checking the map on toggle map, it only takes up half of my screen so I can still shoot and pay attention while looking at the map. Checking the map while in combat should take maximum one second as it can be blocking critical areas of your screen. Things to look for are: the ways your friendlies are going, are you the furthest one up (everyone ahead is enemy), any markers coming up on the map? Finally, for quickly marking things on the map, use the command menu (default “CAPS LOCK”). Command menu allows you to instantly be able to control the map with your mouse and scroll in and drag/place markers. Again, this should take max one second and be a quick fluid movement during combat. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yoIzBUONmmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *(how quick it should be)*
+
+You should not be taking your hands off your keyboard and resting back in your gamer chair to mark stuff like this guy: 
+<iframe src="https://clips.twitch.tv/embed?clip=SingleOutstandingPuppyOpieOP-TJX-2mTLraOCnfqF&parent=sqguide.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+**Suppression**
+
+This milsim technique has its uses in normal squad play. First, it can be used to bait enemies into peeking you. If your opponent is of the mindset that he should peek you while you are shooting at his friends (the right mindset), he will peek you if you are not shooting at him. Therefore, if you know where he is and you fire a couple shots randomly at nothing, he will peek from the known position and you can be ready for him. 
+
+Secondly, suppression (extremely situational) can be used in certain situations as a way to mask audio. If you are sneaking behind an enemy, you usually want to do it while there is gunfire in the background to conceal the sounds you emit while pushing him. Ideally, you push him as he is shooting as he will not be able to hear you coming while he is shooting. You can force this concept by asking a friend to shoot at him through the wall (sound mask) while you push. 
+
+**Grenades, smokes**
+
+A very versatile tool once you get good at aiming them to kill enemies that you cannot see. Try to get good at throwing them maximum range so that the enemies have less time to react when they see the grenade land. Especially useful to try and kill someone as they get revived (if you know they are reviving). You can put your frag grenade away right after pulling the pin in order to bait enemies to push you. 
+
+Smoke grenades are most commonly used defensively to screen vehicles or players holding long lanes. They tend to be very unreliable in Squad (compared to GL smokes). Depending on the angle you are looking through the handheld smoke grenades, they actually make it easier to see people (almost like a wallhack). 
+
+![](/docs/wallhack.PNG) 
+*(inefficiencies of smoke in Squad)*
+
+**Boosting**
+
+Can get in from spots the enemies least expect (by being creative) using the element of surprise. The downside is the vault animation.
+* Boosting on a ladder or other fortification
+* Boosting over a vehicle
+* Boosting on a player (can peek over their head while they are standing with buddy boost for really creative angles)
+
+**Kit memory**
+
+When fighting, it is a good idea to remember the kits you are fighting against. If you notice that you are fighting a squad of five people (they give up every time all five are dead/wiped) you’ll know what to expect when they come back on their next wave. Remembering which kit/weapon killed you will allow your teammates to know if they got the revenge kill / re-frag. If you remember that you died to an MG, and a friendly player kills said MG, then you know that the person who killed you is dead. Let's say you catch a specific kit (for example a LAT) flanking your HAB 300m away and call it out to a squad mate. Upon spawning in, your squad mate will know where to expect this LAT player. If you haven’t killed an enemy medic and your opponents are holding their give-ups, it will give you an indication that the medic is likely trying to go for the revives and that you should camp the enemy bodies in the area. Thinking about which kits you are playing against doesn’t hurt and helps you be more efficient as an infantry player. Another useful element beyond kits is the opponents’ skin colour (no joke).
+
+**Sound**
+
+Pay attention to sound. I usually hear people before I see them if I am holding a corner. Besides footsteps, you want to be listening for radios and rally points. If you think you heard a radio and suddenly don’t hear it anymore, it was probably a rally point that you stomped (or you’re crazy). Get good at consistently hearing the rally before you stomp it (it’s possible). Learn the different sounds that vehicles emit in order to accurately and efficiently convey the information to your team. 
+
+Know what it sounds like when an enemy gets hit vs when he gets downed. Pay attention to enemy give up yells as it means they are resetting as there could be no one in the vicinity (for experienced teams it could be bait to give you a false sense of safety).
+
+Knowing how overpowered it is to use sound to your advantage, you must also keep in mind that the enemy will likely be using sound to their advantage. Try to incorporate audio bait and sound masking to your game. Audio bait by taking the pin off a grenade and putting it back in your inventory, faking a bandage/revive, or shooting in a different direction when you know they are just around the corner (quickly shoot in a different direction and then proceed to hold the corner as they run around it). There’s more ways to audio bait but those are some creative ideas. 
+
+As mentioned in the suppression category, sound masking is huge to help you sneak up on people or aggressively push with better odds. Someone randomly shooting in the vicinity, a grenade exploding, or mortars are all good ways to mask your footsteps and gunfire. 
+
+### Mortars and Fire Support
+
+
+
+
+
+
+
+
+
 ## IV) The Brain
 
 
