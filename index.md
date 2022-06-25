@@ -213,12 +213,31 @@ Spawns are extremely important in Squad, therefore it is important to know how t
 * `DO NOT SHOOT OFF OF RALLY POINT.` With the small stomp radius, enemies can often run past it without stomping it (if they don’t catch you shooting off of it or running off of it)
 
 **HAB**
+
 * Do not leave a vehicle on your radio (same point as rally point)
 * If your HAB is blocked and there are no friendlies in the vicinity to help you from outside, you must fight to unblock it as soon as possible (valid for most situations). The longer you wait, the more enemies that will stack up and the harder it will be to unblock it. 
 * When possible, ensure HAB/Radio is not outside (mortars) 
 
 ### Teamwork and Communication
+Squad is a game of teamwork and communication. To achieve this, you as an infantry player must effectively communicate information to your squad mates and your squad leader. To explain the concepts below, I will use a simple example of a head on firefight versus a few enemy infantry. The first thing you should do if not done already is report the initial contact in squad chat; this is done by calling it out using the 3 D’s (distance, direction, description). Distance is quite simple and can be estimated (avoid numbers), I prefer going for “super close”, “close”, “far”, “far af”. Direction is given by cardinal point and you always have to give your reference point when talking in squad chat as people may be in different positions; examples of this can be “North-West of Hemp Farm”, “South-East of Squad Leader”, “South of Squad Leader 3”. Listen to the communications in your squad and stay brief, avoid repeating information people have already stated.
 
+In Squad, the description of the target is extremely important in knowing if the threat is neutralised (if you call out an MG, and a teammate kills a rifleman, then you know that there is still an MG in the area). Furthermore, some contacts require different reactions; an enemy armoured vehicle will require the riflemen to link up with the LATs, LATs will have to get in a proper position to fire from. A call that your rally has gotten stomped will prompt the squad leader to disengage with a squadmate to replace the rally. When talking in squad chat, it is extremely important to be brief. As Squad is a game, a way to call out a target in a much more brief way is using the FTL markers (explained in the first section of the guide on binds). First of all, the marker shows up on the map so if an infantry player isn’t sure where to look, they can look at the map. Second, the marker also shows up on the compass giving you an exact bearing to look towards relative to your position. This can even help in spotting targets through foliage as you have essentially fixed the position of the enemy contact, all you have to do is scope in and look very closely at that one point. If you have many things to call out and mark for the team that can be too complicated to explain by voice, you can borrow the Fireteam Leader role in order to accurately mark them on the map (such as the positions of the emplacements on an enemy mortar FOB). Fireteam leaders should be the ones passing around the FTL role amongst themselves for this purpose. 
+
+Apart from calling targets out in squad chat, talking in local chat to your teammates is extremely important. The 3 D’s can be used as well (being as brief as possible), and bearings can be used when trying to give accurate positions of enemies to friendlies around you. Things you absolutely need to take into consideration when thinking of what to tell your teammates are the following:
+* Distance, direction, description of threats 
+* If the enemy is shooting at you, you can alert your teammate to peek him as the enemy’s attention is focused on you.
+* If you went down, did you trade? Are you in a revivable spot? Are there more enemies in the area? Was the enemy passively hiding or aggressively rushing? Is the enemy bandaging? You can guide your teammate using only audio and the information you know about this enemy infantry player. You died to him last, most of the time that means you have the most information on that situation with the enemy. If you don't have information, it most likely demonstrates that you made a mistake and died in a stupid way by not gaining information. 
+* If you have no idea where the person is, don’t be afraid to say that you don’t know (don’t just stay quiet, don’t invent false information and bait your teammates)l
+* Enemy give ups
+
+Other elements that need to be called out in squad chat relative to spawns, for example:
+* If a HAB is blocked and a friendly is near and oblivious
+* If a HAB is unblocked and becomes spawnwable
+* If your rally gets stomped (to alert your squad leader to place another one)
+* Enemy give ups (the enemies are giving up as there are no medics nearby and they are respawning)
+* Rally timer reaches ~10 seconds and there are dead people in your squad on the ground (the wave of the rally is a 60 second timer that constantly restarts, if you die 30-60s into the wave of the rally, you are able to make it and spawn on this wave. If they die between 0-30s of the wave, they will have to wait till the next one. This in turn alerts teammates if they should give up and respawn in order to get back into the fight. It is better to be inactive while downed (maybe getting information about people running around you) than being inactive on the spawn screen. 
+
+### Rally Timer and Being in Sync
 
 ## II) The Objective
 ## III) The Mechanics
