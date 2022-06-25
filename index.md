@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 enter to the [test page](test.md)
 <div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/xgj2e7" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 [Title 1](#mechanics)
 [Title 2](#test)
 
-# Table of contents
-{:toc}
+## The Player
+###Tempo & Momentum
+**Tempo is** a term I learned back when I played Hearthstone and it has stuck in my head since then. In simple terms, it describes which way the momentum of the round is going, and the control the player/squad/team has over the round. When you enter a round of Squad, you are constantly and subconsciously using tempo albeit some players better than others. Your goal as a game-aware infantry player is to always keep the tempo on the side of your squad, and your team in order to win. 
+
+#The Player
+##Tempo & Momentum
+Tempo is a term I learned back when I played Hearthstone and it has stuck in my head since then. In simple terms, it describes which way the momentum of the round is going, and the control the player/squad/team has over the round. When you enter a round of Squad, you are constantly and subconsciously using tempo albeit some players better than others. Your goal as a game-aware infantry player is to always keep the tempo on the side of your squad, and your team in order to win. 
+
 
 ### Test 456
 
