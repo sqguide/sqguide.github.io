@@ -9,14 +9,27 @@ Enjoy!
 
 **N.B:** Information in this guide is valid as of V3.0.1
 
+## Table of Contents
+xxx
+
 ## I) The Player
+### Settings
+**FOV:** For squad, I have found lower FOV (90-95) works best to have a bigger image of long-range targets. I use 90 FOV.
+
+**Sensitivity:** Pretty standard concept for all FPS games, I reccomend to have a glance at [Juho's Guide for Accurate Shooting](https://docs.google.com/document/d/1CeQZ4v-V9R8sZ7NdtiMf17x7_IM3kr_C28bkmuMvZLc/edit) and generic FPS sensitivity videos. 
+
+**Graphic settings:** Although a lot about graphic settings are personal preference, I have found the following settings to give me the best results in-game (as of v3.0). These are ethical settings and I recommend them to anyone with enough decency not to use .ini tweaks. I found it easier to see through foliage on epic foliage compared to low. Muzzle flashes are easier to spot on epic particles when compared to low particles. Upping these settings seemed to have minimal effect on my FPS. Some people argue that high shadows + contact shadows off is better than low shadows but I prefer low shadows as they seem to impact my FPS less when shooting. 
+![](settings1.png)
+![](settings2.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGmReHmwj24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Player ol jim chasing epic muzzle flashes through the forest*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oxhX-Ue4HUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Comparing low and epic particles*
+
+Additionally, look up your monitor on google for some calibration settings in order to have the best colours (can increase vibrance and sharpness through the monitor this way if you wish). 
+
 ## II) The Objective
 ## III) The Mechanics
 ## IV) The Brain
 
 
-## The Player
-### Tempo & Momentum
-**Tempo is** a term I learned back when I played Hearthstone and it has stuck in my head since then. In simple terms, it describes which way the momentum of the round is going, and the control the player/squad/team has over the round. When you enter a round of Squad, you are constantly and subconsciously using tempo albeit some players better than others. Your goal as a game-aware infantry player is to always keep the tempo on the side of your squad, and your team in order to win. 
 
 
