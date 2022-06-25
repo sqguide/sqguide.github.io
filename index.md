@@ -10,8 +10,6 @@ Enjoy!
 > N.B: Information in this guide is valid as of V3.0.1. I am always looking to update and add new clips (trying to use clips from v3.0 only) to this document. If you got anything, message me on discord: koodoo#9184
 
 ## Table of Contents
-- [Foreword](#foreword)
-- [Table of Contents](#table-of-contents)
 - [I) The Player](#i--the-player)
   * [Settings](#settings)
   * [Kits](#kits)
@@ -146,7 +144,7 @@ A good MG will have to know how and where to bipod quickly in order to not overe
 Usually need good game sense to play this role properly in order to choose what lanes to hold and when/how to rotate.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mSv0qz_hiKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Montage of player Ol’ Jim holding a lot of ground as MG… edited with zoom to help see targets in the video*
 
-### Squad Leader (very briefly)
+### Squad Leader
 Squad leaders are super important for winning the game. Not only do they place crucial spawn points (rallies & FOBs),but they also have communications with the other squads; extra information that can aid them in calculating the squad’s next move. Squad leading could be a huge guide of its own so I tried to regroup some of the most important fundamentals that have the biggest impact on the game. 
 
 Make sure everyone is playing for the same goal. You generally want to avoid players just doing their own thing away from your squad’s goal (for main infantry, except if they are filling a special function). Every individual will have a different playstyle, and the squad will need to make sure all these are put together for the same goal. The goal could be executing a HAB take, defending a flag, capturing a flag, etc. Using an example of attacking an enemy hab, below are some examples of what players could be doing to contribute to this common goal (in order of aggressivity):
@@ -285,7 +283,7 @@ There are good times to die and bad times to die. When there are downed players 
 
 If you have medics around you, you know you can be a bit more ambitious with your peeks as you will get instantly revived if it is a good medic. This can even mean standing on top of a wall/ roof/staircase (granted you position yourself so you fall into cover afterwards. If the medics are far away, you should be more cautious with peeking as if you die you risk respawning and burning the ticket. 
 
-### Types of Environment (WIP)
+### Types of Environment
 Different environments call for different types of positioning - I have special things to mention about urban and forest maps, I plan to rework this section down the road. 
 
 **Urban (Al Basrah, Fallujah, Logar, Mutaha, Narva, Sumari):** As a rule of thumb on urban maps, you want to play from the buildings and move from building to building. Running down open roads and sidewalks should be avoided. I am not saying to sit in buildings and never push, I am saying to use the buildings to push. 
@@ -308,7 +306,7 @@ The paragraphs above are just some of many examples of the information you can g
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Enemy squad leader is busy fighting on an objective and will have to pull back to place another one with a squad mate (fewer people in the fight)<br><br> Enemy squad leader ignores/doesn’t realise he has lost his rally and plays without a rally (fewer spawns)<br><br> The squad leader is dead and can not replace his rally (will have to reset off a HAB) | Enemy players will have to run back and UNDERREACT. They die AND they lose the radio. (taking people out of the fight)<br><br> Enemy players will have to run back and OVERREACT. They save the radio (taking people out of the fight)<br><br> Enemy players ignore the fact that they lose radio in exchange to keep fighting. (team has fewer spawns on the map)<br><br> Besides tempo, you remove 20 enemy tickets by killing the radio. |
 
-### Yellow Ring Usage (Finding FOBs)
+### Yellow Ring Usage
 FOB creation markers are extremely strong for locating enemy FOBs/HABs via inference. Only squad leaders can place them and it is of utmost importance to be aware of this concept. FOB creation markers give you two vital pieces of information: the build radius and the exclusion radius. With this, you can accomplish three big things: 
 1. Infer the location of an enemy radio attached to a FOB/HAB/Rep
 2. Estimate the location of a second enemy radio 
@@ -372,7 +370,7 @@ Step 2: Call mortars on it
 
 No mortars? Call an AT or use a small vic to kill it. None of those? Shoot some rounds into it with your rifle until it blows up (only do this one near the end of the game when the desperation kicks in).
 
-### Vanilla AAS Mechanics (As of v3.0)
+### Vanilla AAS Mechanics
 **TICKET SWING**
 
 * Initial capture of a flag (at start of game): +20 tickets per flag
@@ -415,7 +413,7 @@ Let's say you and the enemy both start capturing a flag at the same time… you 
 * OWI magic
 * Max 5 chevrons
 
-### Vanilla TC Mechanics (WORK IN PROGRESS)
+### Vanilla TC Mechanics
 
 ___
 ## III) The Mechanics
