@@ -575,14 +575,14 @@ Above all this, the best way to have an indication of your performance is to rev
 ### How to Improve Infantry Game Sense and Become More Versatile
 
 To conclude, I will give my personal opinion on how to train up an inexperienced player to their maximum potential game sense. Reading a guide does not do anything to help compared to actually playing the game and actively learning from your mistakes. I recommend doing the following things in order (move onto the next step once confidence/satisfaction is achieved):
-1. Learn how to medic (ironsight medic) - ironsight medic so that you are not focused on killing as much. Only focus on properly following the fundamentals mentioned in the kits section, you do not need an optic to refrag.
-2. Learn how to use ironsight with an ironsight LAT or rifleman (only in pubs of course) - learn to fight with the iron sight / red dot, etc. A lot of inexperienced players use the optic as a crutch to make up for their terrible positioning. Trust me, your positioning will improve if you do this step properly. Another benefit of this will be training to use your kit (frag rockets to get hard to reach enemies, learn how to engine vehicles, etc.).
-3. Learn how to use the optic kits - you have now practised your positioning by letting your game sense do the work and getting proper positioning. Practice the gunplay adjustments that come with using an optic. The goal here is to have the optic amplify your skill and not make up for it. 
-4. Learn how to squad lead in pubs (without fobs, with fobs) - practice what was mentioned in the SL section. Practice many rounds with only a rally point (ignore placing radios for now). You want to be focusing on 100% rally uptime. After mastering the art of rally points, practice properly placing FOBs and HABs, keeping your logi ready with supplies to constantly develop spawns for your team. Don’t blame the other squad leaders, it’s a pub game and it's expected. Aim to carry your team. 
-5. Learn how to use all the firesupport / specialist kits (specifically LAT, GL, MG) - as per kit section and common sense
-6. Learn how to squad lead in organised play - all around higher stakes, more of an accent on rollouts and mid game decision making
-7. Learn how to play mortars, commander, vehicles
-8. Make strategies
+1. Learn how to medic `(ironsight medic)` - ironsight medic so that you are not focused on killing as much. Only focus on properly following the fundamentals mentioned in the kits section, you do not need an optic to refrag.
+2. Learn how to use ironsight with an `ironsight LAT` or rifleman (only in pubs of course) - learn to fight with the iron sight / red dot, etc. A lot of inexperienced players use the optic as a crutch to make up for their terrible positioning. Trust me, your positioning will improve if you do this step properly. Another benefit of this will be training to use your kit (frag rockets to get hard to reach enemies, learn how to engine vehicles, etc.).
+3. Learn how to use the `optic kits` - you have now practised your positioning by letting your game sense do the work and getting proper positioning. Practice the gunplay adjustments that come with using an optic. The goal here is to have the optic amplify your skill and not make up for it. 
+4. Learn how to `squad lead in pubs` (without fobs, with fobs) - practice what was mentioned in the SL section. Practice many rounds with only a rally point (ignore placing radios for now). You want to be focusing on 100% rally uptime. After mastering the art of rally points, practice properly placing FOBs and HABs, keeping your logi ready with supplies to constantly develop spawns for your team. Don’t blame the other squad leaders, it’s a pub game and it's expected. Aim to carry your team. 
+5. Learn how to use all the `firesupport / specialist` kits (specifically LAT, GL, MG) - as per kit section and common sense
+6. Learn how to `squad lead in organised play` - all around higher stakes, more of an accent on rollouts and mid game decision making
+7. Learn how to play `mortars, commander, vehicles`
+8. Make `strategies`
 
 > tl;dr I feel like every squad player should know how to properly squad lead and play medic before going on to main a specific kit.
 
