@@ -38,12 +38,14 @@ In the image below when I see the arrow of the downed player (looking north) nea
 **Filters:** NVIDIA Freestyle filters are blocked by Squad and if you are like me, you don’t feel like downgrading your drivers to be able to use NVIDIA filters. The only correction I make to the colors above my monitor color settings is using the NVIDIA control panel digital vibrance to make colors pop more. (NVIDIA CONTROL PANEL>ADJUST DESKTOP COLOR SETTINGS>DIGITAL VIBRANCE
 
 ![](/docs/settings6.PNG)
+
 A lot of people enjoy playing with a bit more all-channel gamma (can be done in this same section of the NVIDIA control panel). 
 
 ### Kits
 Below are some quick notes on the different infantry kits you could be playing in a round of squad.
 
 **Medic**
+
 The main role of the medic is to revive and provide stamina to teammates. As a medic, you should be the last one in your squad to die. 
 
 Medics should be sticking behind the squad and playing for trades. This means when their squad mate dies from close by, they should try to kill the enemy that killed the squad mate to get the revive. 
@@ -71,6 +73,46 @@ Dragging can be good to move a friendly around a corner or through a close doorw
 
 Try to avoid proning/sitting still while reviving so that you can cancel the revive and run away faster. Exception to this is if you are hiding behind a small object like a half wall or a window.
 
+**Rifleman**
+
+The main role of the rifleman is ammunition. The ammo bag the rifleman carries has many uses such as: 
+
+Providing ammunition to your squad leader (especially for a rally point). A good squad leader will constantly be rotating their rally point in order to keep it alive therefore you have to take initiative to re-arm them ASAP after they place the rally point.
+
+Providing ammunition to a medic requiring bandages 
+
+Providing ammunition to an LAT / HAT as they are fighting a vehicle. When an anti-tank kit is engaging a vehicle, riflemen must take initiative to push to the anti-tank player and provide ammo for another shot. 
+
+Spamming grenades (using it as a pocket mortar - throw nade, rearm, throw nade, repeat). Great if you’re on dead-dead and can’t peek.
+
+You need to be mindful of your ammo and make sure you ask your squad leader/use your best judgement to figure out if it's okay to give your last 50 ammo (rally point). This is especially important for games where you know you won’t be having access to spawning on an ammo crate or vehicle. 
+![](/docs/kits2.PNG)
+Besides providing ammunition (which you must remember to rearm at all times when near a friendly vehicle or FOB ammo crate), the rifleman’s other main task is to shoot at enemy infantry and ends up being the one with the most time to LMB at the enemies. 
+
+**Light anti-tank**
+
+The main role of the LAT is to disable vehicles. There are some guides out there on where to hit vehicles in order to engine them or track them with one shot. When paired with a friendly vehicle, rifleman or ammo crate where the LAT can rearm easily, killing an enemy vehicle is achievable. When the vehicle is disabled, it is important to call it out to the team so that a friendly vehicle, a HAT/other LAT, commander ability or mortar can finish the kill. 
+
+A secondary role of the LAT when there is no risk of enemy armor attacking the squad is to shoot rockets at enemy infantry who are hiding or in clusters. When there is an abundance of ammo, the LAT can “rocket spam” meaning shooting rockets and rearming over and over. 
+
+It is the responsibility of all squad mates to swap to the LAT kit if it is open and there is an enemy vehicle causing problems in the area. Anyone can do this, even the squad leader.
+
+#### Grenadier (GL)
+
+The main role of the grenadier is to shoot explosives at infantry. This is especially useful when there are clusters of infantry or the infantry is hiding in buildings / behind cover. 
+
+The smoke grenades can be used in numerous useful ways such as blocking chokepoints, revives, screening vehicles, screening machine gunners, screening towers. The grenadier smoke seems to be way stronger than handheld smoke grenades. 
+
+**Machine Gunner / Scope AR**
+
+The main role of the MG is to overwatch the squad and hold longer lanes. 
+
+A good MG will be patient in order to consistently maintain his ground.
+
+A good MG will have to know how and where to bipod quickly in order to not overexpose for too long. By reading the map, the MG will rotate and find lanes to cut enemies off / protect their squad.
+
+Usually need good game sense to play this role properly in order to choose what lanes to hold and when/how to rotate.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSv0qz_hiKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Montage of player Ol’ Jim holding a lot of ground as MG… edited to help zoom to see targets in the video*
 
 ## II) The Objective
 ## III) The Mechanics
