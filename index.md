@@ -1,3 +1,4 @@
+<title>Koodoo SqGuide</title>
 ## Foreword
 This is by no means an exhaustive Squad guide, merely a compendium of general game sense tips directed to an inexperienced Squad infantry player wanting to improve. I tried to keep it as brief and general as possible (I seem to have failed). Most of the information on here was gathered through my personal experience and close observation of some good Squad players over the years. For the experienced players choosing to read through this, I hope some of the arguments and statements in here make you reflect about the game; I would love to hear about the different aspects of the guide you agree/disagree with, and if you persuade me I will definitely update the information into the guide. 
 
