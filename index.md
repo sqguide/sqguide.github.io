@@ -155,6 +155,48 @@ Ensure you are not tunnel-visioned on your objective. You can do this by paying 
 
 This is another thing that is everyone’s responsibility but often you will have to micromanage it as a good squad leader: coordinating explosives. Hard to reach areas can be hit by explosives such as mortar, vehicle, GL, LAT. If you kill someone in a building, they will probably be reviving and you can get the dead-dead with explosives. 
 
+### Squad Composition
+You must be wondering why the medic section above is so long and detailed… that is because other than the squad leader, medics are the most important kit of the squad for main infantry. The skill of your medics and the ability of friendlies to die in good spots make or break the squad. Quite simply and obviously, the medic is there to revive and heal people. However, you can definitely spot the differences when you are playing with a bad medic as the squad will constantly be getting wiped or giving up to respawn on rally since the medic is off doing his own thing or dead. This results in a loss of ground, slower attacks, and loss of tickets.
+
+Several factors are taken into account when figuring out what kits to use in a squad (map, match size, etc), but there are some rules of thumb to follow. Often, it is up to the player to take initiative to choose what role to play in order to help the squad. Keep in mind these are for main infantry squads.
+* You usually want at least one rifleman in the squad (for ammo bag)
+* If the squad has four or more players, you need two medics. Running two medics increases the odds of getting revives (speedier revives + getting people out of dead-dead + giving stamina). The scope medic often plays a bit more aggressively while the ironsight medic hangs back and has priority for getting the revives. The ironsight medic should only be using his gun to re-frag therefore the scope isn’t really required (usually a CQB situation). A squad with two medics will usually burn fewer tickets as they will give up less.
+* Consider using two LATs for the rollout if you are going in an area with likely enemy vehicles (switch off ironsight LAT later)
+* Consider employing an MG for long lanes, squads that will be holding.
+
+### Playstyle Spectrum
+![](/docs/spectrum.PNG)
+Above, I attempted to explain how players can contribute to the common goal of the squad. It is important to not mix up those jobs with squad playstyles. Playstyle is the inherent way someone likes to play. People tend to mislabel playstyle as “rats” vs “chads” or “dumb sprinters” vs “pussy proners”. From my experience playing with a lot of different people and playstyles, squad playstyles can be separated into two extremes - aggressive players and methodical players. 
+
+Good aggressive players like to quickly poke holes and shove through the enemy as fast as they can. They are often the first players to reach the objective and usually get a lot of kills by making the enemy panic with their speed. The downside of this style is that they will often die a lot. If not playing with like-minded aggressive players, they will often die in un-revivable positions and constantly give up. This playstyle is more inconsistent than methodical but is critical to making sick plays that win games. Think squad version of the Counterstrike entry-fragger and maybe even combine the lurker.
+
+Good methodical players like to remain in complete control of the situation (this is not to be confused with “passive”). They will usually be supporting the team by providing crossfire, anchoring, overwatch, and refrags. Being methodical does not mean they do not push or that they are slow. A good methodical player will still be poking and abusing gaps at the right moments. They will often die in revivable positions and die less than an aggressive player, but will usually get onto objectives later after the aggressive players. 
+
+In my opinion, the most versatile and strong squad players are those who can play both the methodical playstyle and the aggressive style. They know when to use one style over the other and can quickly flip the switch on how they are playing (in a matter of seconds), making them extremely unpredictable and deadly (I have no idea how they do it). Let’s call them hybrids. 
+
+For inexperienced players, I recommend you find a style that attracts you the most / the one you are better at. Stick to it and perfect it before moving on to attempting the other style. The aggressive playstyle is extremely hard to get into for the mechanically disadvantaged and can be more punishing for someone starting off (leading into int feeding). The methodical playstyle is difficult to master as you need to have the game sense to know where to play from to not be as useful as an AFK person. 
+
+On the topic of squad and team composition, I can not tell you what the best way to combine these playstyles in a team is. Is it better to have squads of only aggressive players followed by squads of only methodical players? Is it better to have squads with mixes of many playstyles? I think both are viable and combining these two ideologies is the strongest. For squad composition and team composition I would focus on cohesion and synergy at the player level before looking at playstyle. 
+
+### Tempo & Momentum
+Tempo is a term I learned back when I played Hearthstone and it has stuck in my head since then. In simple terms, it describes which way the momentum of the round is going, and the control the player/squad/team has over the round. When you enter a round of Squad, you are constantly and subconsciously using tempo albeit some players better than others. Your goal as a game-aware infantry player is to always keep the tempo on the side of your squad, and your team in order to win. 
+
+During the rollout / opener of your squad round before your initial skirmish, the tempo is neutral. Neither team has map control yet and the tempo is close to even. As you kill enemies and they are in the downed state, they will be getting revived or resetting off a spawn… you are gaining tempo. If you die, you lose your tempo. Get it?
+
+Now for an example from a common scenario found in a match on Chora AAS v2. You are on Chora AAS v2 Hemp Farm as the US during the first engagement of the game. The Russians have put a FOB in the “Saddam's Compound” (the cheese grater building west of Hemp Farm). You push through Hemp Farm killing two enemies, increasing your tempo. The more your tempo increases, the more confidence you achieve to motivate you to push across the street to the enemy HAB with your teammates (who were also killing enemies - SL could be the one monitoring tempo at the squad level). This quick gain of tempo at the start allows you to win the first engagement, stomp the enemy HAB and make them hard reset on the flag before. 
+
+Apply this concrete scenario to most firefights you will encounter as an individual infantry player in Squad. You will often be fighting 0 to 3 enemies (applies for most situations, will obviously change with proximity to enemy spawn). Squads are usually very spread out so it is rare you will be fighting 1v8 (you also have your teammates to help you). The table below dissects common firefight scenarios where there are enemies present, and the tempo you could gain when your reaction is to push through. 
+
+**Aggressive action taken **| **Potential tempo**
+--- | ---
+**Kill no one and push ahead**
+By far the riskiest option as you know there are enemies ahead but you take a calculated risk by pushing through the front line (abusing a gap). Consider this when you hear gunshots in front of you that aren’t directed at your general direction. This tells you the enemies are shooting at friendlies and are scoped in / distracted meaning it could be possible to push past them and abuse a gap to find a spawn or shoot them in the back. It’s a feeling thing and one of the hardest parts of lurking or aggressive playstyles. Note: You must be decisive when pulling this off, if you are not gaining ground you MUST peek and help your allies that are getting shot at (especially when you aren’t getting shot at).|You gain free tempo by abusing the gap and gaining ground, becoming undetected behind enemy lines. The possibilities are endless now: locate HABS, stomp rallies, shoot enemies in the back, etc. Remember to be decisive and always play for the common goal of your squad.
+
+
+
+
+
+
 ## II) The Objective
 ## III) The Mechanics
 ## IV) The Brain
