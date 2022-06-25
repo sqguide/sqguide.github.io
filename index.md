@@ -20,6 +20,9 @@ xxx
 
 **Graphic settings:** Although a lot about graphic settings are personal preference, I have found the following settings to give me the best results in-game (as of v3.0). These are ethical settings and I recommend them to anyone with enough decency not to use .ini tweaks. I found it easier to see through foliage on epic foliage compared to low. Muzzle flashes are easier to spot on epic particles when compared to low particles. Upping these settings seemed to have minimal effect on my FPS. Some people argue that high shadows + contact shadows off is better than low shadows but I prefer low shadows as they seem to impact my FPS less when shooting. 
 ![test](docs/settings1.png)
+<img src="docs/settings1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ![](docs/settings2.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGmReHmwj24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Player Ol' jim chasing epic muzzle flashes through the forest*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxhX-Ue4HUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Comparing low and epic particles*
