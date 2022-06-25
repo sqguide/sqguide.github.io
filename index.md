@@ -38,6 +38,38 @@ In the image below when I see the arrow of the downed player (looking north) nea
 ![](/docs/settings6.PNG)
 A lot of people enjoy playing with a bit more all-channel gamma (can be done in this same section of the NVIDIA control panel). 
 
+### Kits
+Below are some quick notes on the different infantry kits you could be playing in a round of squad.
+
+**Medic**
+The main role of the medic is to revive and provide stamina to teammates. As a medic, you should be the last one in your squad to die. 
+
+Medics should be sticking behind the squad and playing for trades. This means when their squad mate dies from close by, they should try to kill the enemy that killed the squad mate to get the revive. 
+
+If your teammates are good, they will die in good spots. You can revive them without even having to peek or throw smokes. Most bad medics are very reluctant and scared to go for revives; try to be more ambitious as a medic, especially when blessed with the opportunity of playing 2 medics in one squad.
+
+The medic should constantly be moving to revive teammates and nothing else while there are dead people (avoid solo pushes and running in first). 
+
+Reviving other medics is the top priority as they can help you get the other revives or help you out when you die. 
+
+A medic can stick to key players such as the squad leader, optic player, machine gunners to instantly revive them when they die. This is coined being a  “pocket medic”.
+
+When your friendlies get hit and start bleeding, bandage them so that they preserve their bandage. Why? You bandage way faster than they do, and they will conserve their bandage to revive you if you die for some reason. 
+
+The medic should usually fully heal the players they revive. If you do not fully heal the player, they will be in a dead-dead state and lose a ticket when they die. Most of the time, “sticking the heal” is a better option than pulling your gun out.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQTT1iHgP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+When reviving, the medic should take command of the situation. They are alive so he knows what is going on. Tell the person you are reviving where to go to avoid getting sent to the spawn screen, and where to look (most likely area the enemies are going to come from). If someone is impossible to revive, promptly tell them that you will not go for them and that they should give up. 
+
+When reviving people or healing them, do not stand too close to them. You can stretch the distance you are healing/reviving pretty far and it will give them the freedom to move (if you are too close you will collide with their ADS). 
+![](/docs/kits1.PNG)
+
+Dragging can be good to move a friendly around a corner or through a close doorway. You can also drag someone off a high area into cover / cause them to start rolling off a slope. Avoid dragging long distances as it is usually just quicker and less risky to revive in the open than spending two times more time dragging.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7C6NbyWzN90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Try to avoid proning/sitting still while reviving so that you can cancel the revive and run away faster. Exception to this is if you are hiding behind a small object like a half wall or a window.
+
+
 ## II) The Objective
 ## III) The Mechanics
 ## IV) The Brain
