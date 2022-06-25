@@ -21,7 +21,7 @@ Enjoy!
   * [Teamwork and Communication](#teamwork-and-communication)
   * [Rally Timer and Being in Sync](#rally-timer-and-being-in-sync)
   * [Where and How to Die](#where-and-how-to-die)
-  * [Types of Environment (WIP)](#types-of-environment--wip-)
+  * [Types of Environment (WIP)](#types-of-environment)
 - [**II) The Objective**](#ii--the-objective)
   * [Enemy Spawn Game Sense](#enemy-spawn-game-sense)
   * [Yellow Ring Usage (Finding FOBs)](#yellow-ring-usage)
