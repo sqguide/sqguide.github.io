@@ -32,9 +32,11 @@ Additionally, look up your monitor on google for some calibration settings in or
 **Player icons**: Again, personal preference but I heavily advise against using the “Toggle viewing roles as player icons” to keep your squad mates as arrows on the map. If you want to know their kit, you can hover over their names; usually it is not urgent to know their kit (exception can be a crewman in a vehicle). The main benefit of keeping your squad mates as arrows on the map is that you can see which direction they are looking. This in turn lets you know which direction you should look if they need help and you are far away or a different angle you can watch to support them. You cannot do this with “Toggle viewing roles as player icons” enabled. This setting is well hidden and can be toggled through the map screen while in a round of squad. You will not always be spoon-fed information by accurate enemy markers. 
 ![](/docs/settings4.PNG)
 In the image below when I see the arrow of the downed player (looking north) near Nahrain combined with the helmet marker to the north-east, I can assume that they got downed while fighting a player to his north-east. Consequently, this gives me an idea of where to look first when I am spawning in to go assist them. Obviously, this isn’t the case 100% of the time as sometimes they could be looking in a random direction from being inexperienced or even be looking straight in the air. However, while having player arrows, you can still see their kits with an added bonus of knowing where the direction they are looking. If you use player role icons, you can not see the direction they are looking. 
+
 ![](/docs/settings5.PNG)
 
 **Filters:** NVIDIA Freestyle filters are blocked by Squad and if you are like me, you don’t feel like downgrading your drivers to be able to use NVIDIA filters. The only correction I make to the colors above my monitor color settings is using the NVIDIA control panel digital vibrance to make colors pop more. (NVIDIA CONTROL PANEL>ADJUST DESKTOP COLOR SETTINGS>DIGITAL VIBRANCE
+
 ![](/docs/settings6.PNG)
 A lot of people enjoy playing with a bit more all-channel gamma (can be done in this same section of the NVIDIA control panel). 
 
