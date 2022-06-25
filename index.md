@@ -505,11 +505,37 @@ As mentioned in the suppression category, sound masking is huge to help you snea
 
 ### Mortars and Fire Support
 
+**Playing with mortars**
 
+Mortars are extremely strong in the way that a Squad Leader or Fireteam Leader can have explosive rounds hit an accurate area whenever they want. Good infantry players will use this to their advantage by calling mortars on zones where enemies are pushing and when there is a cluster of downed enemies. A cluster of downed infantry will attract medics and the mortars will either kill the medic or send the revives to the spawn screen when they get revived into mortars. Mortars can also be called in order to zone off the enemies from an objective. It is extremely important to mark priority targets for mortars and learn to use them. A universal system that I have seen most squad teams use (only to be used in organised matches/scrims) is the bike/heli system. You will never be using the bike marker anyways and it is nice and small. By using a bike marker to call mortars, FTLs and SLs can place it, unlike the fire mission request markers. Following the bike mark, the mortar players will acknowledge the request with helicopter markers to warn you of the incoming rounds (stay away from the heli markers). If you see that the bike marker is no longer valid (enemies gone), remove it. 
 
+**Playing with artillery**
 
+The squad leader has to guide the commander in placing the artillery as the infantry SL has the most accurate picture of the way that the infantry is moving (paired with commander in UAV it is very strong and difficult to place a bad arty). Pointers on artillery: always use the creeping artillery instead of the static artillery. Make the artillery creep away from your team and into the enemy team, that way you can push behind it. Creeping it the wrong way will allow the enemy to revive as you are getting teamkilled by your artillery trying to figure out when to push in. Make sure to always have some sort of follow up ready to play off the artillery, whether it be a vehicle hot drop or squads pushing on foot into the objective. Another way to guide the commander for the creeping artillery is with the red arrow markers. Here is how the artillery works, try to learn it so you can more efficiently / confidently push off of an artillery: *comes down 60s after calling it in, takes 50 seconds to complete 7-8 salvos*
 
+**Playing with vehicles**
 
+`HELP YOUR VEHICLES.` Things you can do to accomplish this:
+* Communicate properly to the friendly vehicle and keep them updated on vehicle movement. 
+* Kill the enemy LATs/HATs (they will peek when your friendly vehicle is around you)
+* Switch kits to an anti-tank kit to try and track/engine a vehicle. Kill the crewmen when they come out to repair.
+* If a friendly vehicle is engined around you, it can be a good idea to switch to crewman and help them repair OR be hyper-vigilant to kill the anti-tank when they peak. You want to help the vehicles get out of there as soon as possible (you can switch back to your kit after). They are worth a lot of tickets and being engined in enemy territory is dangerous. 
+
+**Playing against mortars:**
+
+Mortars are annoying to play against, keep these three concepts in mind while playing against them to hopefully die a bit less to them.
+
+`Mortar rotation (especially for medics):` Good mortar players use “mortar rotations” they will constantly cycle between many bike markers on the map to try and catch people reviving. Sometimes it can be 30s between rotations, sometimes even two minutes. Keep this in mind as a medic, there could always be more mortars coming. To counter the rotating mortars, pick one of two styles: rush the revive, or wait a long time. Be decisive (I prefer the first strategy). 
+
+`Mortar spread:` Good mortar players spread their salvos so that they are more unpredictable as they hit. It gives you the feeling that the rounds are following you or that they are randomly hitting in a large spread. Bad mortar players don’t use this (they constantly hit a small spread in the same predictable location). Learn to recognize it quickly in order to know how to move through the mortars.  
+
+`Mortar sound:` You can hear/see when you are about to be mortared by looking at the sky and listening to the distinct sound the round makes before it hits you. By getting into the habit of doing this while rounds are already landing and spreading around you, reacting quickly could save you from getting mortared.
+
+**Extra notes on fire support**
+
+Following UAV cool downs, always make sure to check the sky sometimes to see when the UAV is up. Communicate this to the friendly vehicles so that they kill it as soon as possible. This takes 0.5s to do and will immensely help minimise enemy UAV up time. This tip is sweaty and should only be applied to organised play.
+
+When a helicopter is flying slowly or hovering around you, it is easy to disable it with small arms. It takes two mags of a basic infantry rifle into the tail rotor to send it into a spin and disable the helicopter. Later, follow up can be organised to kill the helicopter such as a vehicle ram, vehicle kill, mortars, or LAT.
 
 
 
