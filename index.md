@@ -153,6 +153,7 @@ Squad leaders are super important for winning the game. Not only do they place c
 
 Make sure everyone is playing for the same goal. You generally want to avoid players just doing their own thing away from your squad’s goal (for main infantry, except if they are filling a special function). Every individual will have a different playstyle, and the squad will need to make sure all these are put together for the same goal. The goal could be executing a HAB take, defending a flag, capturing a flag, etc. Using an example of attacking an enemy hab, below are some examples of what players could be doing to contribute to this common goal (in order of aggressivity):
 * `Finding gaps and shoving:` Utilising good game sense, this player found an area that is not covered by the opponent and punished the enemy for this open ground by shoving ahead of the squad. Usually, this shover will be the first one on the HAB. Inexperienced teams often play heavy on the flanks; the gaps could often be found in the wide-open centre or along the lattice lines. The player who aggressively finds gaps and shoves is usually very confident. Once on the HAB (and it is blocked by other friendlies that have caught up), this player will remain the tip of the spear by continuing the push to buffer out and stomp backup rallies / returning enemies from different angles. 
+
 ![](/docs/SL1.PNG)
 
 *These 3 players could be in the process of finding/abusing a gap in the enemy (orange lines)*
