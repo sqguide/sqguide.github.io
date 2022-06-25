@@ -9,6 +9,10 @@ Enjoy!
 
 **N.B:** Information in this guide is valid as of V3.0.1
 
+## I) The Player
+## II) The Objective
+## III) The Mechanics
+## IV) The Brain
 
 
 ## The Player
