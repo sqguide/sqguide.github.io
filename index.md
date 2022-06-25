@@ -43,7 +43,7 @@ Enjoy!
   * [Performance Indicators](#performance-indicators)
   * [How to Improve Infantry Game Sense and Become More Versatile](#how-to-improve-infantry-game-sense-and-become-more-versatile)
 
-(https://docs.google.com/document/d/1JmZiMLcNgn-1_-aG_1LF3_zjMfaFM0_c1ZxlUAFHcTc/edit?usp=sharing)[Click here to access the guide on Google Docs, be aware it could be outdated.]
+[https://docs.google.com/document/d/1JmZiMLcNgn-1_-aG_1LF3_zjMfaFM0_c1ZxlUAFHcTc/edit?usp=sharing](Click here to access the guide on Google Docs, be aware it could be outdated.)
 
 ___
 ## I) The Player
